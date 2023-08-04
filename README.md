@@ -38,3 +38,17 @@ To deploy the contract, use a development environment compatible with Solidity v
     1. Deploy the contract to the Ethereum network.
     2. Interact with the contract using the available functions to transfer ERC-20 tokens and send Ether.
     You can use Remix to deploy and interact with the contract for the simplicity.
+
+## Example Deployment
+
+Contract details and transaction history are as follows:
+
+![Contract Details](./assets//images/contract_details.png)
+
+![Transaction History](./assets//images/transaction_history.png)
+
+## 💎 Etherscan 💎
+
+You can review the contract details and transaction history from etherscan:
+
+**Link : [https://sepolia.etherscan.io/address/0x2bbf039cec89d909232d1d2482306286bf85714c]**
